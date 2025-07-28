@@ -4,7 +4,7 @@
 
 🎓 Electronics and Telecommunication Engineering student at BMS College of Engineering (Batch of 2026)
 
-🔬 Passionate about Biomedical Devices, Signal Processing, and Embedded Systems
+🔬 Passionate about IOT Devices, Signal Processing, and Embedded Systems
 
 🛠️ Skills: Verilog HDL, Python, C++, Altium Designer, ESP32, MAX30102, IoT Systems
 
